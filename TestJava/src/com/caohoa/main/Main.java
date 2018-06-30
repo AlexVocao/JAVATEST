@@ -8,7 +8,7 @@ public class Main {
 		
 		builderJson.append("{ \"age\": 12");
 		builderJson.append(",\"name\":\"hung\"}");
-		
+		//MEGERE
 		//Person person = new Person(10,"hung");
 		//Person person = Person.convertPerson(builderJson.toString());
 		
