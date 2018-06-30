@@ -6,7 +6,7 @@ public class Main {
 	public static void main(String[] args) {
 		StringBuilder builderJson = new StringBuilder();
 		
-		builderJson.append("{ \"age\": 11");
+		builderJson.append("{ \"age\": 12");
 		builderJson.append(",\"name\":\"hung\"}");
 		
 		//Person person = new Person(10,"hung");
